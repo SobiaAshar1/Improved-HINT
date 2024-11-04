@@ -1,4 +1,3 @@
-# Improved-HINT
 # HINT
 HINT: High-quality INpainting Transformer with Enhanced Attention and Mask-aware Encoding
 ========================================================================================
@@ -96,7 +95,6 @@ If you find this work helpful, please cite us.
   pages={1-12},
   keywords={Transformers;Feature extraction;Image reconstruction;Computational modeling;Task analysis;Data mining;Computer vision;Image Inpainting;Transformer;Representation Learning},
   doi={10.1109/TMM.2024.3369897}}
-
 
 
 
